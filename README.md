@@ -67,10 +67,10 @@ I am actively seeking opportunities to **improve my skills**, collaborate with t
 ---
 
 ## 🌐 Languages
-- 🇲🇦 Arabic: Native  
-- ⵣ Tamazight: Native  
+- 🇲🇦 Arabic: Native    
 - 🇺🇸 English: Intermediate  
-- 🇫🇷 French: Good working knowledge  
+- 🇫🇷 French: Good working knowledge
+- ⵣ Tamazight: Intermediate
 - 🇩🇪 German: A1 (Basic)  
 
 ---
