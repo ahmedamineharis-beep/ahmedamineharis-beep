@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ahmed Amine Haris  
+# 👋 Hi there, I'm Ahmed Amine HARIS  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Full+Stack+Web+Developer;Front-End+Focused;React+Learner;Always+Learning+AI+Skills)](https://git.io/typing-svg)
 
